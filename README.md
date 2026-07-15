@@ -37,7 +37,9 @@
 A: 共享账号使用人数多，Apple 会临时锁定。多试几个账号，或等几分钟再试。
 
 **Q: 下载了 Shadowrocket 怎么用？**
-A: 小火箭只是一个工具，还需要购买 VPN 线路才能使用。推荐稳定老牌机场 👉 [点此注册](https://love2.p6m6.com/#/register?code=jzvORlDw)
+A: 小火箭只是一个工具，还需要购买 VPN 线路才能使用。推荐两家稳定老牌机场：
+- [宝可梦](https://love2.p6m6.com/#/register?code=jzvORlDw) — 老牌稳定，送60G试用
+- [瞬云](https://ccc.jichang.best/#/register?code=nBmXIXz0) — 速度超快，8折码:20OFF
 
 **Q: 想长期用，不想蹭共享号？**
 A: 可以自己注册美区 Apple ID（网上教程很多），或者买成品独享号。
