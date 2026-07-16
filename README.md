@@ -27,17 +27,13 @@
 | 🇹🇼 台区 | `dulcesextro948761@hotmail.com` | `uD5A63N14e` |
 | 🇰🇷 韩区 | `gzhc1838@hhl123.club` | `SdRBRuc36t` |
 
-> 💡 更多实时账号请访问：[HK Card Store - 免费 Apple ID](https://你的域名)
+> 💡 更多实时账号请访问：[Rainbow Horse - 免费 Apple ID](https://card.rainbowhorse.cc/apple.html)
 
 ---
 
-## ❓ 常见问题
+## ☁️ 纯净 VPN 机场推荐
 
-**Q: 账号为什么登不上？**
-A: 共享账号使用人数多，Apple 会临时锁定。多试几个账号，或等几分钟再试。
-
-**Q: 下载了 Shadowrocket 怎么用？**
-A: 小火箭只是一个工具，还需要购买 VPN 线路才能使用。推荐四家稳定老牌机场：
+下载了小火箭还需要购买线路才能用，推荐四家稳定老牌机场：
 
 | VPN | 特点 | 优惠 |
 |-----|------|------|
@@ -46,19 +42,22 @@ A: 小火箭只是一个工具，还需要购买 VPN 线路才能使用。推荐
 | [万达云](https://link.wdyserver.com/register?code=ndmkeAme) | 36地区90+节点，极速 | 9折码:wandayun |
 | [涅槃云](https://theme.revival.baby/#/register?code=5eTiaJiw) | 严测推荐，16地区 | 9折码:qsy99 |
 
-**Q: 想长期用，不想蹭共享号？**
-A: 可以自己注册美区 Apple ID（网上教程很多），或者买成品独享号。
-
 ---
 
 ## 📱 需要香港电话卡？
 
-50GB 数据 · 2000 分钟 · 180 天有效期 · 无需实名 · 全国包邮
+180 天有效期 · 无需实名 · 支持续费 · 全国包邮
 
 👉 [点击购买](https://www.kufaka.com/shop/7PXP0OUR)
 
 ---
 
+## 🌈 Rainbow Horse
+
+本站由 [Rainbow Horse](https://card.rainbowhorse.cc) 维护，提供免费 Apple ID 共享、纯净 VPN 机场推荐、香港电话卡购买。
+
+---
+
 ## ⭐ Star & Share
 
-如果你觉得有用，点个 **Star** ⭐ 支持一下。把仓库链接发给朋友，让更多人用上免费美区 ID。
+如果帮到你了，点个 **Star** ⭐ 支持一下！
