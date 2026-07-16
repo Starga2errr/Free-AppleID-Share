@@ -1,6 +1,7 @@
-# 🔥 免费美区 Apple ID 共享账号 — 持续更新
+# 🔥 免费 Apple ID 共享账号 — 每日自动更新
 
-> 免费分享美区/港区/日区/台区 Apple ID，可用于下载 Shadowrocket（小火箭）、TikTok、ChatGPT、Telegram 等外区应用。**仅限 App Store 登录！**
+> 更新时间：2026/7/17 02:00:06
+> 正常可用：18 个 | 锁定：0 个
 
 ---
 
@@ -15,19 +16,27 @@
 
 ## 🆓 最新可用账号
 
-*最近更新：如果账号锁定请稍后刷新，我们会定期更换*
+| 地区 | 账号 | 密码 | 状态 |
+|:--:|------|------|:--:|
+| 🌍 VN | `Ixuzs13668@outlook.com` | `q3peg7vBRu` | ✅ |
+| 🇺🇸 US | `Ewzry02878@outlook.com` | `c9uwkZqRYX` | ✅ |
+| 🇺🇸 US | `Tekvj50476@outlook.com` | `TRMWAaE67K` | ✅ |
+| 🇯🇵 JP | `Bttzm23625@outlook.com` | `zhr5C7RYdp` | ✅ |
+| 🇺🇸 US | `AllenMilliepyl879@gmail.com` | `44s41NP3MD5pf3` | ✅ |
+| 🇺🇸 US | `DeborazpiHarr967@icloud.com` | `x5Qt9ch9m9` | ✅ |
+| 🇺🇸 US | `Iedel01339@outlook.com` | `yjSxDaUCH6` | ✅ |
+| 🇺🇸 US | `RonaldGrayaW@outlook.com.gr` | `2a7QR7mX4m` | ✅ |
+| 🌍 VN | `Vrovs69386@outlook.com` | `K3DrqMn1Ur` | ✅ |
+| 🌍 VN | `BrettGolden73350U@outlook.co.nz` | `5J5m38D4Kc` | ✅ |
+| 🇺🇸 US | `quodonnell@gmail.com` | `Dd10096da` | ✅ |
+| 🇺🇸 US | `BettyGarcia5be56@gmail.com` | `44s4nrRa3yZnJ5` | ✅ |
+| 🇺🇸 US | `Vngbz69515@outlook.com` | `TC6g3wNeYj` | ✅ |
+| 🇺🇸 US | `jarvarisrivetteuf3409@gmail.com` | `VG7j2eeg4C` | ✅ |
+| 🇺🇸 US | `Plccu54570@outlook.com` | `Vpg9ksHtDt` | ✅ |
+| 🌍 VN | `MeaganNielsen35881M@outlook.com.br` | `TfuPpXwsS8` | ✅ |
+| 🌍 VN | `AutumnPayneScF@outlook.com.br` | `gE6KNe2V4N` | ✅ |
+| 🇺🇸 US | `Fwpdn89407@outlook.com` | `yukuuWj3ub` | ✅ |
 
-| 地区 | 账号 | 密码 |
-|:--:|------|------|
-| 🇺🇸 美区 | `KoriDion6062@outlook.com` | `7yB45R8aja` |
-| 🇺🇸 美区 | `ZoeCj1562@outlook.com` | `AQq73uPHNz` |
-| 🇺🇸 美区 | `quodonnell@gmail.com` | `Dd10096da` |
-| 🇭🇰 港区 | `njyy1057@hhl123.club` | `e2A9Ry2JX1` |
-| 🇯🇵 日区 | `ehvi1252@hhl123.club` | `qev7Ws9JPw` |
-| 🇹🇼 台区 | `dulcesextro948761@hotmail.com` | `uD5A63N14e` |
-| 🇰🇷 韩区 | `gzhc1838@hhl123.club` | `SdRBRuc36t` |
-
-> 💡 更多实时账号请访问：[Rainbow Horse - 免费 Apple ID](https://card.rainbowhorse.cc/apple.html)
 
 ---
 
@@ -44,20 +53,6 @@
 
 ---
 
-## 📱 需要香港电话卡？
-
-180 天有效期 · 无需实名 · 支持续费 · 全国包邮
-
-👉 [点击购买](https://www.kufaka.com/shop/7PXP0OUR)
-
----
-
 ## 🌈 Rainbow Horse
 
 本站由 [Rainbow Horse](https://card.rainbowhorse.cc) 维护，提供免费 Apple ID 共享、纯净 VPN 机场推荐、香港电话卡购买。
-
----
-
-## ⭐ Star & Share
-
-如果帮到你了，点个 **Star** ⭐ 支持一下！
